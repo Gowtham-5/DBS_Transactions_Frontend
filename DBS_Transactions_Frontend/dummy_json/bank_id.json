@@ -1,0 +1,20 @@
+{
+    "bic": [
+      {
+        "id": "A",
+        "bank_name": "Andhra Bank"
+      },
+      {
+        "id": "B",
+        "bank_name": "Bank of Baroda"
+      },
+      {
+        "id": "C",
+        "bank_name": "City Union Bank"
+      },
+      {
+        "id": "D",
+        "bank_name": "DBS Bank"
+      }
+    ]
+}
